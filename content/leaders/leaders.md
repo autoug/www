@@ -9,14 +9,17 @@ image: leaders.jpg
 ## Mark Brookfield
 - Twitter : 
 - Website : 
+- linkedin : 
 - Bio : 
 - - -
 ## Michael Poore
 - Twitter : 
 - Website : 
+- linkedin : 
 - Bio : 
 - - -
 ## Robert Jensen
-- Twitter : 
-- Website : 
+- Twitter : https://twitter.com/rhjensen
+- Website : https://www.robert-jensen.dk
+- linkedin : https://www.linkedin.com/in/robertjensen/
 - Bio : 
