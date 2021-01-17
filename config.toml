@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   author = "Automation User Group"
   description = "Minimal, one page, theme for showcasing your work"
   message = ""
-  hideAutoMenu = true
+  hideAutoMenu = false
 
 #[[menu.main]]
 #  name = "External"
