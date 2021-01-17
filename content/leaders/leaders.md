@@ -19,7 +19,7 @@ image: leaders.jpg
 - Bio : 
 - - -
 ## Robert Jensen
-- [Twitter](https://twitter.com/rhjensen)
-- [Website](https://www.robert-jensen.dk)
-- [linkedin](https://www.linkedin.com/in/robertjensen/)
+- [Twitter : @rhjensen](https://twitter.com/rhjensen)
+- [Website : www.robert-jensen.dk](https://www.robert-jensen.dk)
+- [linkedin : robertjensen](https://www.linkedin.com/in/robertjensen/)
 - Bio : 
