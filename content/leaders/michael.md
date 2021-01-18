@@ -3,7 +3,7 @@ title: Michael Poore
 date: 2020-06-01
 #subtitle: 2020
 link: leaders/michael
-image: leaders.jpg
+image: michael.jpg
 ---
 
 - [Twitter : @mpoore](https://twitter.com/mpoore)
