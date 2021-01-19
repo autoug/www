@@ -9,4 +9,5 @@ image: michael.jpg
 - [Twitter : @mpoore](https://twitter.com/mpoore)
 - [Website : blog.v12n.io](https://blog.v12n.io)
 - [linkedin : michaelpoore](https://www.linkedin.com/in/michaelpoore/)
-- Bio : 
+
+### Bio : 
