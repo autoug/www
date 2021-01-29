@@ -9,6 +9,7 @@ image: robert.jpg
 - [Twitter : @rhjensen](https://twitter.com/rhjensen)
 - [Website : www.robert-jensen.dk](https://www.robert-jensen.dk)
 - [linkedin : robertjensen](https://www.linkedin.com/in/robertjensen/)
+- [Github : rhjensen79](https://github.com/rhjensen79)
 
 ### Bio : 
 
