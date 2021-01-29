@@ -2,7 +2,7 @@ baseURL = "www.autoug.io"
 languageCode = "en-us"
 title = "Automation User Group"
 Paginate = 1000
-googleAnalytics = ""
+googleAnalytics = "G-G730R0S20R"
 theme = "showcase"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
