@@ -1,4 +1,4 @@
-baseURL = "www.autoug.io"
+baseURL = "https://www.autoug.io"
 languageCode = "en-us"
 title = "Automation User Group"
 Paginate = 1000
